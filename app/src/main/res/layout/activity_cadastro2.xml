@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@color/cor_de_fundo"
     tools:context=".CadastroActivity2">
-
+dd
     <!-- Imagem no topo -->
     <ImageView
         android:id="@+id/imageView2"
