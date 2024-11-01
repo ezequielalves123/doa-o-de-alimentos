@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="bieg">#F7EED6</color>
+    <color name="cor_de_fundo">#F7EED6</color>
+    <color name="cinza">#62626E</color>
+
+</resources>

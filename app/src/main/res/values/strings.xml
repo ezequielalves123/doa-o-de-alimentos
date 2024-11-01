@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DoacaoDeAlimentosComunitario</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="data_de_nascimento">Data de Nascimento</string>
+    <string name="e_mail">E-mail</string>
+    <string name="cpf">CPF</string>
+    <string name="n_mero_de_telefone">Número de Telefone</string>
+    <string name="cep">CEP</string>
+    <string name="escolha_uma_senha">Escolha uma Senha</string>
+    <string name="confirme_a_senha">Confirme a Senha</string>
+    <string name="tipo_de_conta">TIPO DE CONTA:</string>
+    <string name="confirmar_cadastro">Confirmar Cadastro</string>
+    <string-array name="tipo_conta">
+        <item>Doador</item>
+        <item>Receptor</item>
+    </string-array>
+</resources>
